@@ -1,1 +1,3 @@
 # odin-recipes
+
+This was quite an interesting task. I enjoyed picking out recipes and making the layout for them, however, I messed up at the last commit because I simply forgot to add the files before commenting, so the last commit is for the index file instead of the recipes, although I meant it for the recipes. Nevertheless, it was a fun little project and I'm hoping that when I get into CSS, I'll style the shit out of this website and make it look real cute!
